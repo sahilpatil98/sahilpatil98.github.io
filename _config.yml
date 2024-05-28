@@ -12,9 +12,9 @@ title                    : "Sahil Patil"
 title_separator          : "-"
 name                     : &name "Sahil Patil"
 description              : &description "5th Year PhD Economics Candidate"
-url                      : https://sahilpatil98.github.io/sahilpatil/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sahilpatil98.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "sahilpatil98/sahilpatil98.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.

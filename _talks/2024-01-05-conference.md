@@ -1,5 +1,5 @@
 ---
-title: "ASSA Meetings 2024 Non-wage Gender Disparities: A Kick Or A Start?"
+title: "WOW ASSA Meetings 2024 Non-wage Gender Disparities: A Kick Or A Start?"
 collection: talks
 type: "Conference"
 permalink: /talks/2024-01-05-conference
